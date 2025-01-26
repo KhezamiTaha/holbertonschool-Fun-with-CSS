@@ -115,5 +115,5 @@ Once all tasks are complete, request a manual QA review for validation.
 
 ## 📬 Contact
 - **Author:** Taha  
-- **GitHub:** [[hezami]([url](https://github.com/KhezamiTaha))]
+- **GitHub:** [Khezami]([url](https://github.com/KhezamiTaha))
 
